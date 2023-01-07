@@ -17,6 +17,8 @@ public class TC_LoginDDT_002 extends BaseClass
 	{
 		LoginPage lp = new LoginPage(driver);
 		
+		System.out.println("*******Starting Test case*******");
+		
 		lp.setUserName(user);
 		logger.info("Username provided");
 		lp.setPassword(pwd);
@@ -27,11 +29,11 @@ public class TC_LoginDDT_002 extends BaseClass
 		
 		if (isAlertPresent()==true)
 		{
+			logger.info("Login failed...");
 			Assert.assertTrue(false);
-			logger.warn("Login failed");
+			Thread.sleep(3000);
 			driver.switchTo().alert().accept(); //to close alert
 			driver.switchTo().defaultContent(); //to return to the default page
-			
 		}
 		else
 		{

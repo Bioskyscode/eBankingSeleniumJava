@@ -17,7 +17,7 @@ public class TC_AddCustomerTest_003 extends BaseClass
 	public void addNewCustomer() throws InterruptedException, IOException {
 		
 		LoginPage lp = new LoginPage(driver);
-		
+		System.out.println("****Starting test case...****");
 		lp.setUserName(username);
 		logger.info("username is provided");
 		lp.setPassword(password);
@@ -25,12 +25,13 @@ public class TC_AddCustomerTest_003 extends BaseClass
 //		Thread.sleep(3000);
 		lp.clickSubmit();
 		
-		Thread.sleep(3000);
+//		Thread.sleep(3000);
 	
 		AddCustomerPage ac = new AddCustomerPage(driver);
 		ac.clickAddNewCustomer();
+		
 		logger.info("providing customer details ...");
-		Thread.sleep(5000); //u can also delete it
+//		Thread.sleep(5000);
 		
 		ac.custNam("Lucas");
 		ac.custGender("male");

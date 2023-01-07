@@ -24,51 +24,86 @@ public class AddCustomerPage {
 //	@CacheLookup
 //	WebElement lnkAddNewCustomer;
 	
-//	@FindBy(id = "message")
-//	@CacheLookup
-//	WebElement txtCustomerName;
 	
-	@FindBy(how = How.NAME, using = "name")
+	@FindBy(xpath = "/html/body/table/tbody/tr/td/table/tbody/tr[4]/td[2]/input")
 	@CacheLookup
 	WebElement txtCustomerName;
 	
-	@FindBy(how = How.NAME, using = "rad1")
+//	@FindBy(how = How.NAME, using = "name")
+//	@CacheLookup
+//	WebElement txtCustomerName;
+	
+	
+//	@FindBy(how = How.NAME, using = "rad1")
+//	@CacheLookup
+//	WebElement rdGender;
+	
+	@FindBy(xpath = "/html/body/table/tbody/tr/td/table/tbody/tr[5]/td[2]/input[1]")
 	@CacheLookup
 	WebElement rdGender;
 	
-	@FindBy(how = How.ID_OR_NAME, using = "dob")
+	
+//	@FindBy(how = How.ID_OR_NAME, using = "dob")
+//	@CacheLookup
+//	WebElement txtdob;
+	@FindBy(id = "dob")
 	@CacheLookup
 	WebElement txtdob;
 	
-	@FindBy(how = How.NAME, using = "addr")
+//	@FindBy(how = How.NAME, using = "addr")
+//	@CacheLookup
+//	WebElement txtaddress;
+	@FindBy(name = "addr")
 	@CacheLookup
 	WebElement txtaddress;
 	
-	@FindBy(how = How.NAME, using = "city")
+//	@FindBy(how = How.NAME, using = "city")
+//	@CacheLookup
+//	WebElement txtcity;
+	@FindBy(name = "city")
 	@CacheLookup
 	WebElement txtcity;
 	
-	@FindBy(how = How.NAME, using = "state")
+//	@FindBy(how = How.NAME, using = "state")
+//	@CacheLookup
+//	WebElement txtstate;
+	@FindBy(name = "state")
 	@CacheLookup
 	WebElement txtstate;
 	
-	@FindBy(how = How.NAME, using = "pinno")
+//	@FindBy(how = How.NAME, using = "pinno")
+//	@CacheLookup
+//	WebElement txtpinno;
+	@FindBy(name = "pinno")
 	@CacheLookup
 	WebElement txtpinno;
 	
-	@FindBy(how = How.NAME, using = "telephoneno")
+	
+//	@FindBy(how = How.NAME, using = "telephoneno")
+//	@CacheLookup
+//	WebElement txttelephoneno;
+	@FindBy(name = "telephoneno")
 	@CacheLookup
 	WebElement txttelephoneno;
 	
-	@FindBy(how = How.NAME, using = "emailid")
+//	@FindBy(how = How.NAME, using = "emailid")
+//	@CacheLookup
+//	WebElement txtemailid;
+	@FindBy(name = "emailid")
 	@CacheLookup
 	WebElement txtemailid;
 	
-	@FindBy(how = How.NAME, using = "password")
+//	@FindBy(how = How.NAME, using = "password")
+//	@CacheLookup
+//	WebElement txtpassword;
+	@FindBy(name = "password")
 	@CacheLookup
 	WebElement txtpassword;
 	
-	@FindBy(how = How.NAME, using = "sub")
+//	@FindBy(how = How.NAME, using = "sub")
+//	@CacheLookup
+//	WebElement btnSubmit;
+	@FindBy(name  = "sub")
 	@CacheLookup
 	WebElement btnSubmit;
 	

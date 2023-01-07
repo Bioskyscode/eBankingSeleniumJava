@@ -2,6 +2,8 @@ package com.inetbanking.testCases;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.concurrent.TimeUnit;
+
 import org.apache.commons.io.FileUtils;
 
 import org.apache.log4j.Logger;
@@ -53,13 +55,13 @@ public class BaseClass {
 			driver = new FirefoxDriver();
 
 		}
-//		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		driver.manage().timeouts().implicitlyWait(2, TimeUnit.SECONDS);
 		driver.get(baseURL);
 		logger.info("URL is opened");
 		System.out.println("*******URL is opened*******");
 		driver.manage().window().maximize();
 		driver.switchTo().frame("gdpr-consent-notice");
-		System.out.println("********We are switch to the iframe*******");
+		System.out.println("********Switching to the iframe*******");
 		Thread.sleep(3000);
 		WebElement acceptButton = driver.findElement(By.id("save"));
 		acceptButton.click();
@@ -71,7 +73,7 @@ public class BaseClass {
 	@AfterClass
 	public void tearDown()
 	{
-//		driver.quit();
+		driver.quit();
 		System.out.println("Test completed");
 	}
 	

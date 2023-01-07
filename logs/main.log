@@ -1,0 +1,178 @@
+2023-01-07 02:02:45,402 +0100 [main] INFO  (BaseClass.java:60) - URL is opened
+2023-01-07 02:02:52,257 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:02:52,426 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:02:56,682 +0100 [main] INFO  (TC_LoginDDT_002.java:33) - Login passed
+2023-01-07 02:03:01,354 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:03:01,467 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:03:04,772 +0100 [main] INFO  (TC_LoginDDT_002.java:41) - Login failed...
+2023-01-07 02:03:05,956 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:03:06,086 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:03:09,431 +0100 [main] INFO  (TC_LoginDDT_002.java:41) - Login failed...
+2023-01-07 02:05:48,731 +0100 [main] INFO  (BaseClass.java:60) - URL is opened
+2023-01-07 02:05:55,833 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:05:56,086 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:06:00,325 +0100 [main] INFO  (TC_LoginDDT_002.java:40) - Login passed
+2023-01-07 02:06:05,153 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:06:05,561 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:06:08,903 +0100 [main] INFO  (TC_LoginDDT_002.java:32) - Login failed...
+2023-01-07 02:06:10,108 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:06:10,238 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:06:13,573 +0100 [main] INFO  (TC_LoginDDT_002.java:32) - Login failed...
+2023-01-07 02:07:36,260 +0100 [main] INFO  (BaseClass.java:60) - URL is opened
+2023-01-07 02:07:44,194 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:07:44,381 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:07:45,467 +0100 [main] INFO  (TC_LoginDDT_002.java:40) - Login passed
+2023-01-07 02:07:50,918 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:07:51,157 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:07:51,671 +0100 [main] INFO  (TC_LoginDDT_002.java:32) - Login failed...
+2023-01-07 02:07:53,436 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:07:53,582 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:07:53,934 +0100 [main] INFO  (TC_LoginDDT_002.java:32) - Login failed...
+2023-01-07 02:10:40,784 +0100 [main] INFO  (BaseClass.java:60) - URL is opened
+2023-01-07 02:10:47,105 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:10:47,402 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:10:48,274 +0100 [main] INFO  (TC_LoginDDT_002.java:40) - Login passed
+2023-01-07 02:10:52,798 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:10:53,174 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:10:53,447 +0100 [main] INFO  (TC_LoginDDT_002.java:32) - Login failed...
+2023-01-07 02:10:54,471 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:10:54,669 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:10:55,655 +0100 [main] INFO  (TC_LoginDDT_002.java:40) - Login passed
+2023-01-07 02:11:00,372 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:11:00,478 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:11:00,773 +0100 [main] INFO  (TC_LoginDDT_002.java:32) - Login failed...
+2023-01-07 02:21:19,684 +0100 [main] INFO  (BaseClass.java:60) - URL is opened
+2023-01-07 02:21:26,158 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:21:26,267 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:21:26,769 +0100 [main] INFO  (TC_LoginDDT_002.java:32) - Login failed...
+2023-01-07 02:21:27,689 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:21:27,827 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:21:28,144 +0100 [main] INFO  (TC_LoginDDT_002.java:32) - Login failed...
+2023-01-07 02:21:29,074 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:21:29,206 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:21:29,478 +0100 [main] INFO  (TC_LoginDDT_002.java:32) - Login failed...
+2023-01-07 02:21:30,425 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:21:30,511 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:21:30,591 +0100 [main] INFO  (TC_LoginDDT_002.java:40) - Login passed
+2023-01-07 02:23:09,182 +0100 [main] INFO  (BaseClass.java:60) - URL is opened
+2023-01-07 02:23:15,702 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:23:15,905 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:23:19,219 +0100 [main] INFO  (TC_LoginDDT_002.java:32) - Login failed...
+2023-01-07 02:23:20,549 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:23:20,653 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:23:23,950 +0100 [main] INFO  (TC_LoginDDT_002.java:32) - Login failed...
+2023-01-07 02:23:24,992 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:23:25,127 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:23:28,541 +0100 [main] INFO  (TC_LoginDDT_002.java:32) - Login failed...
+2023-01-07 02:23:29,573 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:23:29,744 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:23:32,871 +0100 [main] INFO  (TC_LoginDDT_002.java:40) - Login passed
+2023-01-07 02:25:54,348 +0100 [main] INFO  (BaseClass.java:60) - URL is opened
+2023-01-07 02:26:00,868 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:26:00,983 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:26:04,482 +0100 [main] INFO  (TC_LoginDDT_002.java:32) - Login failed...
+2023-01-07 02:26:05,740 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:26:05,863 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:26:09,157 +0100 [main] INFO  (TC_LoginDDT_002.java:32) - Login failed...
+2023-01-07 02:26:10,219 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:26:10,321 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:26:13,635 +0100 [main] INFO  (TC_LoginDDT_002.java:32) - Login failed...
+2023-01-07 02:26:14,778 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:26:14,955 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:26:18,064 +0100 [main] INFO  (TC_LoginDDT_002.java:40) - Login passed
+2023-01-07 02:29:35,328 +0100 [main] INFO  (BaseClass.java:60) - URL is opened
+2023-01-07 02:29:41,924 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:29:42,034 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:29:45,577 +0100 [main] INFO  (TC_LoginDDT_002.java:32) - Login failed...
+2023-01-07 02:29:46,707 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:29:46,884 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:29:50,140 +0100 [main] INFO  (TC_LoginDDT_002.java:32) - Login failed...
+2023-01-07 02:29:51,189 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:29:51,365 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:29:54,659 +0100 [main] INFO  (TC_LoginDDT_002.java:32) - Login failed...
+2023-01-07 02:29:55,669 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:29:55,833 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:29:58,932 +0100 [main] INFO  (TC_LoginDDT_002.java:40) - Login passed
+2023-01-07 02:33:37,951 +0100 [main] INFO  (BaseClass.java:60) - URL is opened
+2023-01-07 02:33:44,320 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:33:44,407 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:33:47,688 +0100 [main] INFO  (TC_LoginDDT_002.java:32) - Login failed...
+2023-01-07 02:33:48,819 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:33:48,945 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:33:52,291 +0100 [main] INFO  (TC_LoginDDT_002.java:32) - Login failed...
+2023-01-07 02:33:53,335 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:33:53,512 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:33:56,840 +0100 [main] INFO  (TC_LoginDDT_002.java:32) - Login failed...
+2023-01-07 02:40:48,656 +0100 [main] INFO  (BaseClass.java:60) - URL is opened
+2023-01-07 02:40:55,031 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:40:55,170 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:40:59,395 +0100 [main] INFO  (TC_LoginDDT_002.java:40) - Login passed
+2023-01-07 02:41:04,117 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:41:04,305 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:41:07,640 +0100 [main] INFO  (TC_LoginDDT_002.java:32) - Login failed...
+2023-01-07 02:41:08,844 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:41:08,952 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:41:12,723 +0100 [main] INFO  (TC_LoginDDT_002.java:40) - Login passed
+2023-01-07 02:45:17,633 +0100 [main] INFO  (BaseClass.java:60) - URL is opened
+2023-01-07 02:45:24,082 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:45:24,180 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:45:28,246 +0100 [main] INFO  (TC_LoginDDT_002.java:40) - Login passed
+2023-01-07 02:45:32,995 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:45:33,211 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:45:36,481 +0100 [main] INFO  (TC_LoginDDT_002.java:32) - Login failed...
+2023-01-07 02:45:37,602 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:45:37,710 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:45:41,027 +0100 [main] INFO  (TC_LoginDDT_002.java:32) - Login failed...
+2023-01-07 02:49:12,102 +0100 [main] INFO  (BaseClass.java:60) - URL is opened
+2023-01-07 02:49:19,126 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:49:19,308 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:49:23,762 +0100 [main] INFO  (TC_LoginDDT_002.java:41) - Login passed
+2023-01-07 02:49:29,659 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:49:29,943 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:49:33,315 +0100 [main] INFO  (TC_LoginDDT_002.java:32) - Login failed...
+2023-01-07 02:49:34,925 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:49:35,063 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:49:38,527 +0100 [main] INFO  (TC_LoginDDT_002.java:32) - Login failed...
+2023-01-07 02:52:02,343 +0100 [main] INFO  (BaseClass.java:60) - URL is opened
+2023-01-07 02:52:09,724 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:52:09,893 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:52:14,277 +0100 [main] INFO  (TC_LoginDDT_002.java:41) - Login passed
+2023-01-07 02:52:19,621 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:52:19,944 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:52:23,271 +0100 [main] INFO  (TC_LoginDDT_002.java:32) - Login failed...
+2023-01-07 02:54:48,021 +0100 [main] INFO  (BaseClass.java:60) - URL is opened
+2023-01-07 02:54:54,936 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:54:55,145 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:54:59,649 +0100 [main] INFO  (TC_LoginDDT_002.java:41) - Login passed
+2023-01-07 02:55:05,116 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:55:05,417 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:55:08,875 +0100 [main] INFO  (TC_LoginDDT_002.java:32) - Login failed...
+2023-01-07 02:56:46,282 +0100 [main] INFO  (BaseClass.java:60) - URL is opened
+2023-01-07 02:56:54,229 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:56:54,355 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:56:58,773 +0100 [main] INFO  (TC_LoginDDT_002.java:41) - Login passed
+2023-01-07 02:57:04,238 +0100 [main] INFO  (TC_LoginDDT_002.java:23) - Username provided
+2023-01-07 02:57:04,347 +0100 [main] INFO  (TC_LoginDDT_002.java:25) - Password provided
+2023-01-07 02:57:07,748 +0100 [main] INFO  (TC_LoginDDT_002.java:32) - Login failed...
+2023-01-07 02:59:16,621 +0100 [main] INFO  (BaseClass.java:60) - URL is opened
+2023-01-07 02:59:22,630 +0100 [main] INFO  (TC_LoginTest_001.java:19) - username provided
+2023-01-07 02:59:22,753 +0100 [main] INFO  (TC_LoginTest_001.java:22) - password provided
+2023-01-07 02:59:27,184 +0100 [main] INFO  (TC_LoginTest_001.java:27) - press login button
+2023-01-07 02:59:27,198 +0100 [main] INFO  (TC_LoginTest_001.java:37) - Login Test passed
+2023-01-07 02:59:34,831 +0100 [main] INFO  (BaseClass.java:60) - URL is opened
+2023-01-07 02:59:40,692 +0100 [main] INFO  (TC_AddCustomerTest_003.java:22) - username is provided
+2023-01-07 02:59:40,882 +0100 [main] INFO  (TC_AddCustomerTest_003.java:24) - password is provided
+2023-01-07 02:59:43,323 +0100 [main] INFO  (TC_AddCustomerTest_003.java:33) - providing customer details ...
+2023-01-07 02:59:49,635 +0100 [main] INFO  (TC_AddCustomerTest_003.java:52) - Validation started ...
+2023-01-07 02:59:49,656 +0100 [main] INFO  (TC_AddCustomerTest_003.java:62) - Test case failed ...
+2023-01-07 03:02:07,664 +0100 [main] INFO  (BaseClass.java:60) - URL is opened
+2023-01-07 03:02:13,636 +0100 [main] INFO  (TC_LoginTest_001.java:19) - username provided
+2023-01-07 03:02:13,764 +0100 [main] INFO  (TC_LoginTest_001.java:22) - password provided
+2023-01-07 03:02:18,383 +0100 [main] INFO  (TC_LoginTest_001.java:27) - press login button
+2023-01-07 03:02:18,402 +0100 [main] INFO  (TC_LoginTest_001.java:37) - Login Test passed
+2023-01-07 03:02:25,631 +0100 [main] INFO  (BaseClass.java:60) - URL is opened
+2023-01-07 03:02:31,579 +0100 [main] INFO  (TC_AddCustomerTest_003.java:22) - username is provided
+2023-01-07 03:02:31,717 +0100 [main] INFO  (TC_AddCustomerTest_003.java:24) - password is provided
+2023-01-07 03:02:34,111 +0100 [main] INFO  (TC_AddCustomerTest_003.java:33) - providing customer details ...
+2023-01-07 03:02:40,867 +0100 [main] INFO  (TC_AddCustomerTest_003.java:52) - Validation started ...
+2023-01-07 03:02:40,885 +0100 [main] INFO  (TC_AddCustomerTest_003.java:58) - Test case passed...
